@@ -1,0 +1,2 @@
+# Home-Network-Simulation-Lab-Cisco-Packet-Tracer-Wireless-Router-Access-Point-
+Small Cisco Packet Tracer lab where I built a home style network from scratch, a wireless router as the hub, wired server and PCs, a couple of wireless laptops, and a standalone access point extending coverage to a remote client. Focused on getting the physical and wireless layout right before moving on to addressing and configuration.
